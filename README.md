@@ -2,11 +2,11 @@
 
 ## About the Project
 
-I've done this project for my MEC324 lecture in Turkish-German University. The main goal of this project is to detect and classify traffic signs on a given image. The traffic signs were splitted into 4 classes. Prohibitory, mandatory, danger and other.
+I've done this project for my MEC324 lecture in Turkish-German University. The main goal of this project is to detect and classify traffic signs on a given image. 
 
 ## About the Classes
 
-The name of the classes are below.
+The traffic signs were splitted into 4 classes.
 
 <ul>
   <li>Prohibitory</li>
