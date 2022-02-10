@@ -25,7 +25,7 @@ The traffic signs in this class are round and white.
 
 ### Mandatory
 
-Traffic signs in this class are blue. There's an illustration shown below.
+Traffic signs in this class are blue.
 
 ### Danger
 
