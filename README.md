@@ -15,9 +15,13 @@ The traffic signs were splitted into 4 classes.
   <li>Other</li>
 </ul>
 
+The image below shows examples from each class.
+
+![From top to bottom: Prohibitory, Danger, Mandatory, Other](https://raw.github.com/cagatayp0/GermanTrafficSignDetection/main/Assets/all together.png)
+
 ### Prohibitory
 
-The traffic signs in this class are round and white. They also have red borders. An example for this class are shown below.
+The traffic signs in this class are round and white.
 
 ### Mandatory
 
