@@ -17,7 +17,7 @@ The traffic signs were splitted into 4 classes.
 
 The image below shows examples from each class.
 
-![From top to bottom: Prohibitory, Danger, Mandatory, Other](https://raw.github.com/cagatayp0/GermanTrafficSignDetection/main/Assets/all together.png)
+![From top to bottom: Prohibitory, Danger, Mandatory, Other](https://github.com/cagatayp0/GermanTrafficSignDetection/blob/main/Assets/all%20together.png)
 
 ### Prohibitory
 
