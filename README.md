@@ -37,7 +37,7 @@ They don't have a specific shape. Any other traffic signs that are not part of t
 
 ## About the Data
 
-The original data are from [German Traffic Sign Detection Benchmark](https://benchmark.ini.rub.de/gtsdb_news.html). It features 900 images, divided by 600 train images and 300 test images. The labeling of this data was not compatible with Yolo format (Yolo wants specific txt files for each class), so I labeled them via [Roboflow](https://roboflow.com/). But the images in this dataset were in .ppm format and Roboflow does not support this format. So, I've turned them into .jpg images, and I've also added a validation set. You can access the data from this [kaggle link](https://www.kaggle.com/aatayparlar/german-traffic-sign-detection-benchmark).
+The original data are from [German Traffic Sign Detection Benchmark](https://benchmark.ini.rub.de/gtsdb_news.html). It features 900 images, divided by 600 train images and 300 test images. The labeling of this data was not compatible with Yolo format (Yolo wants specific txt files for each class), so I labeled them via [Roboflow](https://roboflow.com/). However, the images in this dataset were in .ppm format and Roboflow does not support this format, therefore I've turned them into .jpg images, and I've also added a validation set. You can access the data from this [kaggle link](https://www.kaggle.com/aatayparlar/german-traffic-sign-detection-benchmark).
 
 ## Acknowledgements
 
